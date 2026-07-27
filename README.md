@@ -57,9 +57,6 @@ python main.py
 
 Select the programmer, MCU, COM port and HEX file, then choose an operation.
 
-## Screenshots
-
-_Add screenshots here._
 
 ## License
 
