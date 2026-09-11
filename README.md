@@ -33,7 +33,7 @@ Arduino Uno ISP wiring:
 | D11 | MOSI |
 | D12 | MISO |
 | D13 | SCK |
-| D8 | RESET |
+| D10 | RESET |
 | GND | GND |
 | VCC | VCC |
 
